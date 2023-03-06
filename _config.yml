@@ -7,7 +7,7 @@ description: "一些个人笔记与随想"
 keyword: "physics,cosmology,IHEP"
 url: "https://silas7y.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
+github_repo: "https://github.com/silas7y/silas7y.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
